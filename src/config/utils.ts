@@ -9,7 +9,8 @@ const error = (msg: string) => {
 };
 
 export const populateRpcField = (chain: Chain, rpc: string | undefined) => {
-  if (!rpc) return {};
+  if (!rpc) {console.log("no rpc for", chain);
+  return{};};
   return { [chain]: rpc };
 };
 

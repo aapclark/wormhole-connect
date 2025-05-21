@@ -185,4 +185,14 @@ export const MAINNET_CHAINS: ChainsConfig = {
     icon: 'Sonic',
     symbol: 'S',
   },
+  Mezo: {
+    ...chains.Mezo!,
+    displayName: 'Mezo',
+    sdkName: 'Mezo',
+    explorerUrl: 'https://explorer.mezo.org',
+    explorerName: 'Mezo Explorer',
+    chainId: 31612,
+    icon: 'Mezo',
+    symbol: 'BTC',
+  },
 };
