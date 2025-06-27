@@ -16,7 +16,7 @@ Wormhole Connect is deployed live in several production apps. Here are a few:
 - [PancakeSwap](https://bridge.pancakeswap.finance/wormhole)
 
 
-## Getting Started 
+## Getting Started
 
 ### Via NPM for React apps (Recommended)
 
@@ -160,7 +160,7 @@ See [`chains.ts`](https://github.com/wormhole-foundation/wormhole-sdk-ts/blob/ma
 | Worldchain | Worldchain |
 | Unichain | Unichain |
 | Berachain | |
-| | Mezo |
+| Mezo | Mezo |
 
 ### RPC Endpoints (`rpcs`):
 

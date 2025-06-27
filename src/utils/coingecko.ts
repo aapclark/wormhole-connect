@@ -28,7 +28,7 @@ const NATIVE_TOKEN_IDS: Partial<Record<Chain, string>> = {
   Sonic: 'sonic-3',
   Linea: 'ethereum',
   Worldchain: 'ethereum',
-  // TODO: add Mezo when available
+  // TODO: add Mezo when available, as of 06/30/25 'mezo' asset not tracked
 };
 
 // This refers to Coingecko API's platform names: https://api.coingecko.com/api/v3/asset_platforms

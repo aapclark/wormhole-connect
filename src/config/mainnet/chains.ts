@@ -161,6 +161,14 @@ export const MAINNET_CHAINS: ChainsConfig = {
     icon: 'Unichain',
     symbol: 'UNI',
   },
+  Mezo: {
+    displayName: 'Mezo',
+    explorerUrl: 'https://explorer.mezo.org/',
+    explorerName: 'Mezo Explorer',
+    icon: 'Mezo',
+    sdkName: 'Mezo',
+    symbol: 'MEZO',
+  },
   Berachain: {
     displayName: 'Berachain',
     sdkName: 'Berachain',
